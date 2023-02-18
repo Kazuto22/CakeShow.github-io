@@ -1298,6 +1298,7 @@ audio {
 	max-width: 80%;
 	max-height: 200px;
 	margin: 5px auto;
+	border: solid 4px black;
 	border-radius: 20%;
 	box-shadow: #aaa 0 0 4px;
 }
